@@ -13,7 +13,7 @@
 2 - Combine_BL_Generator : Generate encrypted firmware combined with bootloader
 ```
 3. Type option '1' or '2' and press enter
-4. A pop out window will show for user to browse the input folder path and select the original firmware binary file 
+4. A pop out window will show for user to browse the input folder path and select the original firmware binary file (default raw firmware folder : FW_Only)
 5. Select the original firmware binary file
 6. Summary of the firmware generator details and process will be shown on terminal 
 ```
